@@ -1,4 +1,5 @@
-# Minimal Mistakes remote theme starter
+# My site for CDAD 1033 Data and Human Space
+## NYU Abu Dhabi 2026
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
