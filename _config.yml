@@ -98,5 +98,5 @@ tag_archive:
 footer:
   links: []
 
-  after_footer_scripts:
+after_footer_scripts:
   - /assets/js/dark-mode.js
