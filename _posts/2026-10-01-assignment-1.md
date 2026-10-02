@@ -1,7 +1,7 @@
 ---
 
 layout: single
-title: "Exploring Greece Through GeoNames"
+title: "Assignment 1"
 date: 2026-10-01
 excerpt: ""
 header:
