@@ -8,9 +8,7 @@ header:
   teaser: /assets/images/greece-banner.jpg
 
 ---
-<img src="{{ '/assets/images/greece-banner.jpg' | relative_url }}"
-     alt="Greece"
-     style="width: 100%; max-height: 450px; object-fit: cover;">
+
 
 # Introduction
 
