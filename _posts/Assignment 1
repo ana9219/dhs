@@ -179,8 +179,10 @@ Firstly, there were a lot more hotels along the shoreline than in the middle of 
 
 Hotels are spread across Greece, but there appears to be a much higher concentration on the islands and in popular tourist destinations such as **Corfu, Mykonos, Santorini, Zakynthos, and central Athens**.
 
-![Hotels and Islands Map]({{ site.baseurl }}/assets/images/Hotels_and_Islands.png)
-
+<img src="{{ site.baseurl }}/assets/images/Hotels_and_Islands.png"
+     alt="Hotels and islands across Greece"
+     width="100%">
+     
 *Figure 5. Hotels and islands across Greece, showing where tourism is more concentrated.*
 
 ## Missing Forests
