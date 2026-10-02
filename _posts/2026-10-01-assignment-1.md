@@ -267,5 +267,4 @@ OpenAI. ChatGPT. OpenAI, https://chatgpt.com/.
 
 Sheffield Methods Institute. “Do Maps Lie? – Why Numbers Matter, Episode 2.” YouTube, 3 Feb. 2017, https://www.youtube.com/watch?v=G0_MBrJnRq0.
 
-
 Ready for Grading!
