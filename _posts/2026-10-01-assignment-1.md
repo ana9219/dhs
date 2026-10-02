@@ -4,7 +4,10 @@ layout: single
 title: "Exploring Greece Through GeoNames"
 date: 2026-10-01
 ---
-
+<img src="{{ '/assets/images/greece-banner.jpg' | relative_url }}"
+     alt="Greece"
+     style="width: 100%; max-height: 450px; object-fit: cover;">
+     
 # Introduction
 
 Hello everyone, and welcome to my first assignment!
