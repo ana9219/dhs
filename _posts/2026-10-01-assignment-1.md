@@ -9,7 +9,7 @@ date: 2026-10-01
 
 Hello everyone, and welcome to my first assignment!
 
-For this assignment, I had the opportunity to explore a country that I am already quite familiar with, but this time from a completely different perspective: **data and mapping**. I lived in Greece during my middle school years, so I already knew quite a bit about the country. I was curious to see whether what I already knew about Greece would match what appeared in the GeoNames dataset.
+For this assignment, I had the opportunity to explore a country that I am already quite familiar with, but this time from a completely different perspective: data and mapping. I lived in Greece during my middle school years, so I already knew quite a bit about the country. I was curious to see whether what I already knew about Greece would match what appeared in the GeoNames dataset.
 
 <iframe src="{{ site.baseurl }}/assets/maps/GR_featuremap_extras.html"
         width="100%"
