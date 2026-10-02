@@ -1,0 +1,26 @@
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <button
+        class="greedy-nav__toggle"
+        type="button"
+        aria-label="Toggle dark mode"
+        onclick="toggleDarkMode()">
+        🌙
+      </button>
+
+      <nav id="site-nav" class="greedy-nav">
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Menu</span>
+          <div class="navicon"></div>
+        </button>
+
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
