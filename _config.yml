@@ -95,8 +95,3 @@ tag_archive:
   type: liquid
   path: /tags/
 
-footer:
-  links: []
-
-after_footer_scripts:
-  - /assets/js/dark-mode.js
