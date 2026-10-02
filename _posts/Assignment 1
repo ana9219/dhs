@@ -47,9 +47,9 @@ As shown, record updates were almost nonexistent before 2010, but there was a si
 
 # Map Features
 
-When it came to choosing my feature codes, I didn't really have a specific theme or idea of what I wanted the map to look like. Instead, I chose three features that stood out to me: **seas, islands, and schools**.
+When it came to choosing my feature codes, I didn't really have a specific theme or idea of what I wanted the map to look like. Instead, I chose three features that stood out to me: seas, islands, and schools.
 
-After running the code, I found that there were only **eight schools** in the entirety of Greece, which I knew was clearly incorrect. I couldn't even find the schools that I had attended there, so I came to the conclusion that the school data was not up to date. I therefore replaced schools with mountains.
+After running the code, I found that there were only eight schools in the entirety of Greece, which I knew was clearly incorrect. I couldn't even find the schools that I had attended there, so I came to the conclusion that the school data was not up to date. I therefore replaced schools with mountains.
 
 The three original features I selected were:
 
@@ -75,7 +75,7 @@ The results were:
 
 *Figure 3. Initial map showing seas, islands, and mountains.*
 
-The **ISLS** feature had the highest number, which I honestly did not expect. I knew that Greece had many islands, but I thought the total would be around 50 at most. I was surprised to see that there were **112 islands**. This made me realize that I didn't know Greece as much as I thought I did.
+The **ISLS** feature had the highest number, which I honestly did not expect. I knew that Greece had many islands, but I thought the total would be around 50 at most. I was surprised to see that there were 112 islands. This made me realize that I didn't know Greece as much as I thought I did.
 
 # Issues with R
 
@@ -179,7 +179,7 @@ Firstly, there were a lot more hotels along the shoreline than in the middle of 
 
 Hotels are spread across Greece, but there appears to be a much higher concentration on the islands and in popular tourist destinations such as **Corfu, Mykonos, Santorini, Zakynthos, and central Athens**.
 
-<iframe src="{{ site.baseurl }}/assets/maps/Hotels and Islands.html"
+<iframe src="{{ site.baseurl }}/assets/images/Hotels_and_Islands.png"
         width="100%"
         height="600px"
         style="border:none;">
@@ -214,9 +214,9 @@ It is also possible that one point represents an entire mountain range rather th
 
 The same issue appears once again with the historical sites.
 
-In the whole of Athens, only one site is listed: the **Ancient Agora of Athens**.
+In the whole of Athens, only one site is listed: the Ancient Agora of Athens.
 
-I was surprised to see the Acropolis missing, so I checked the data and saw that it was listed as **HLL**. After checking GeoNames, I found that it was classified as a hill rather than a historical site.
+I was surprised to see the Acropolis missing, so I checked the data and saw that it was listed as *HLL*. After checking GeoNames, I found that it was classified as a hill rather than a historical site.
 
 This was another example of how the classification system can affect what appears on a map.
 
@@ -255,10 +255,19 @@ If the data were more completely documented, we would actually see that there ar
 This assignment also changed how I think about maps. Before working with the GeoNames dataset, I mostly thought of a map as something that showed us where things were. Now I understand that maps also depend on decisions about what gets recorded, how things are classified, and how often the information is updated.
 
 # References
-* GeoNames. *GeoNames Geographic Database.*
-* Kitchin, R., & Lauriault, T. *Data and the City / discussions of data as constructed and situated.*
-* *Do Maps Lie?* Course video.
-* Mapbox. *Map and tile services.*
+Anthropic. Claude. Anthropic, https://claude.ai/.
+
+GeoNames. “About GeoNames.” GeoNames, https://www.geonames.org/about.html.
+
+Google. Gemini. Google, https://gemini.google.com/.
+
+Kitchin, Rob, and Tracey P. Lauriault. “Towards Critical Data Studies: Charting and Unpacking Data Assemblages and Their Work.” The Programmable City Working Paper 2, 2014, https://mural.maynoothuniversity.ie/id/eprint/5683/.
+
+Mapbox. Mapbox Documentation. Mapbox, https://docs.mapbox.com/.
+
+OpenAI. ChatGPT. OpenAI, https://chatgpt.com/.
+
+Sheffield Methods Institute. “Do Maps Lie? – Why Numbers Matter, Episode 2.” YouTube, 3 Feb. 2017, https://www.youtube.com/watch?v=G0_MBrJnRq0.
 
 
 Ready for Grading!
