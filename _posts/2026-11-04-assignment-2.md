@@ -9,3 +9,8 @@ header:
 
 ---
 
+<iframe src="{{ site.baseurl }}/assets/maps/interactive_map.html"
+        width="100%"
+        height="600px"
+        style="border:none;">
+</iframe>
