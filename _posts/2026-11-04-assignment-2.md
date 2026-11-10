@@ -26,7 +26,6 @@ header:
  1 the Road is a novel published by Ross Goodwin in 2018, created using artificial intelligence during a road trip from New York to New Orleans. Instead of writing the novel himself, Goodwin used artificial intelligence to generate text based on information collected during the journey. A camera at the back of the car captured images of the surroundings, a GPS identified nearby locations, a microphone recorded conversations inside the car, and a clock provided the time. This information was then used to generate descriptions of places, conversations, and other parts of the novel. The novel mentions many real locations and businesses, but the writing does not always follow a clear storyline. At times, it was difficult to understand how certain locations fit into the journey because the writing was often fragmented and shifted between places without clear explanation or connection. To better understand how these geographic references are interpreted, we created a three-layered map of the locations identified in the novel. We then compared the layers, two based on automated methods and one based on manual annotation.
 
 ## Annotations
-
 ### Manual Annotations
 In order to create the map, we first needed to annotate the locations. As mentioned previously, this was done in 3 different ways. The first method was done during one of our classes, where the students were split into groups, and each group was responsible for annotating an assigned section of the novel using [Recogito](https://recogito.pelagios.org/).
 
